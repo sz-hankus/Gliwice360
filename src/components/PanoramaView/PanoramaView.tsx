@@ -38,7 +38,7 @@ export const PanoramaView = () => {
         width={"100%"}
         onZoomChange={(newZoom) => console.log("zoom", newZoom)}
       />
-      <button
+      {/* <button
         style={{ position: "absolute", top: 50, right: 50 }}
         onClick={zoomIn}
       >
@@ -53,7 +53,7 @@ export const PanoramaView = () => {
       <button style={{ position: "absolute", top: 90, right: 50 }}>
         {" "}
         {`${ref.current?.getZoomLevel()}`}{" "}
-      </button>
+      </button> */}
     </>
   );
 };
