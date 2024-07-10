@@ -18,6 +18,14 @@ public/thumbnails
 
 photos
 
+# latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.pdf
+*.synctex.gz
+*.toc
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

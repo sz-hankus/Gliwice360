@@ -11,22 +11,22 @@ export const PanoramaView = () => {
   const point = pointsData.filter(point => point.id === Number.parseInt(id || "0"))[0]; // TODO: what to do when id is undefined?
   const ref = useRef<ViewerAPI>(null);
 
-  const zoomIn = () => {
-    const current = ref.current?.getZoomLevel();
-    if (current !== undefined)
-      ref.current?.animate({ zoom: current + 20, speed: 100 });
+  // const zoomIn = () => {
+  //   const current = ref.current?.getZoomLevel();
+  //   if (current !== undefined)
+  //     ref.current?.animate({ zoom: current + 20, speed: 100 });
 
-    console.log("current: ", current);
-    console.log("after zoom:", ref.current?.getZoomLevel());
-  };
+  //   console.log("current: ", current);
+  //   console.log("after zoom:", ref.current?.getZoomLevel());
+  // };
 
-  const zoomOut = () => {
-    const current = ref.current?.getZoomLevel();
-    if (current) ref.current?.animate({ zoom: current - 20, speed: 100 });
+  // const zoomOut = () => {
+  //   const current = ref.current?.getZoomLevel();
+  //   if (current) ref.current?.animate({ zoom: current - 20, speed: 100 });
 
-    console.log("current: ", current);
-    console.log("after zoom:", ref.current?.getZoomLevel());
-  };
+  //   console.log("current: ", current);
+  //   console.log("after zoom:", ref.current?.getZoomLevel());
+  // };
 
   return (
     <>

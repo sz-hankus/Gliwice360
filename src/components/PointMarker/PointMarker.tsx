@@ -3,6 +3,8 @@ import L from "leaflet";
 import { useNavigate } from "react-router-dom";
 import "./PointMarker.css";
 
+// TODO: probably copy this over to the public folder - huge chunks of base64
+// inside the JS bundle seem undesirable
 import icon from 'leaflet/dist/images/marker-icon.png';
 import iconRetina from 'leaflet/dist/images/marker-icon-2x.png';
 import iconShadow from 'leaflet/dist/images/marker-shadow.png';

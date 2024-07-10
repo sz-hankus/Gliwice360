@@ -48,8 +48,8 @@
         "name": "Radiostacja Gliwicka",
         "description": "Radiostacja Gliwicka",
         "coordinates": {
-            "lat": 50.30581,
-            "lng": 18.63685
+            "lat": 50.31312,
+            "lng": 18.68922
 		},
         "panoramaId": "radiostacja",
         "thumbnailId": "radiostacja"
@@ -70,8 +70,8 @@
         "name": "Pola obok Starogliwickiej 2",
         "description": "Pola obok Starogliwickiej 2",
         "coordinates": {
-            "lat": 50.30581,
-            "lng": 18.63685
+            "lat": 50.32501,
+            "lng": 18.61731
 		},
         "panoramaId": "pola-starogliwicka-2",
         "thumbnailId": "pola-starogliwicka-2"
