@@ -243,6 +243,17 @@
     },
     {
         "id": 23,
+        "name": "Rynek",
+        "description": "Rynek, Ratusz oraz Fontanna Neptun",
+        "coordinates": {
+            "lat": 50.29420,
+            "lng": 18.66539
+		},
+        "panoramaId": "rynek",
+        "thumbnailId": "rynek"
+    },
+    {
+        "id": 24,
         "name": "Kościół Wszystkich Świętych",
         "description": "Kościół Wszystkich Świętych",
         "coordinates": {
@@ -253,7 +264,7 @@
         "thumbnailId": "kosciol-wszystkich-sw"
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "Zamek Piastowski",
         "description": "Zamek Piastowski",
         "coordinates": {
@@ -264,7 +275,7 @@
         "thumbnailId": "zamek-piastowski"
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "Katedra Świętych Apostołów Piotra i Pawła",
         "description": "Katedra Świętych Apostołów Piotra i Pawła",
         "coordinates": {
@@ -275,7 +286,7 @@
         "thumbnailId": "katedra"
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "Park Chopina",
         "description": "Park Chopina",
         "coordinates": {
@@ -286,7 +297,7 @@
         "thumbnailId": "park-chopina"
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "Palmiarnia miejska",
         "description": "Palmiarnia miejska",
         "coordinates": {
@@ -297,7 +308,7 @@
         "thumbnailId": "palmiarnia"
     },
     {
-        "id": 28,
+        "id": 29,
         "name": "Skwer Europejski",
         "description": "Skwer nad DTŚ",
         "coordinates": {
@@ -308,7 +319,7 @@
         "thumbnailId": "skwer-europejski"
     },
     {
-        "id": 29,
+        "id": 30,
         "name": "Wilcze Doły",
         "description": "Zbiornik retencyjny pełniący funkcję terenu rekreacyjnego",
         "coordinates": {
