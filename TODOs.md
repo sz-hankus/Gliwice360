@@ -1,0 +1,9 @@
+- [] change link to the github repo
+- [] a fallback image for loading
+- [x] navbar in panoview? background-image: linear-gradient(rgba(0,0,0,.7) 28%,rgba(0,0,0,0));
+- [x] geoJSON city borders
+- [] zoom in/out custom control
+- [] put pointsData in point.ts?
+- [] nginx config
+- [] gliwice icon in index.html
+- [] figure out how much I can compress the panoramas while maintaining good quality

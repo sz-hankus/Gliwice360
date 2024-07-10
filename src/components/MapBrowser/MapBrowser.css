@@ -1,0 +1,9 @@
+#mapcontainer {
+    height: 100vh;
+}
+
+.leaflet-container {
+    min-height: 100%;
+    height: 100%;
+    z-index: 1;
+}

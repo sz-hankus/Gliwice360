@@ -1,0 +1,321 @@
+[
+    {
+        "id": 1,
+        "name": "Chemiczna",
+        "description": "Opis chemicznej",
+        "coordinates": {
+            "lat": 50.30650,
+            "lng": 18.62552
+        },
+        "panoramaId": "chemiczna",
+        "thumbnailId": "chemiczna"
+    },
+    {
+        "id": 2,
+        "name": "Parking pod Tesco",
+        "description": "Tesco przy ulicy Łabędzkiej",
+        "coordinates": {
+            "lat": 50.31094,
+            "lng": 18.62887        
+		},
+        "panoramaId": "tesco",
+        "thumbnailId": "tesco"
+    },
+    {
+        "id": 3,
+        "name": "Wjazd na osiedle Waryńskiego",
+        "description": "Od strony ulicy Łabędzkiej",
+        "coordinates": {
+            "lat": 50.31604,
+            "lng": 18.61983
+		},
+        "panoramaId": "wjazd-na-warynskiego",
+        "thumbnailId": "wjazd-na-warynskiego"
+    },
+    {
+        "id": 4,
+        "name": "Cmentarz centralny",
+        "description": "Dom pogrzebowy na cmentarzu centralnym",
+        "coordinates": {
+            "lat": 50.30581,
+            "lng": 18.63685
+		},
+        "panoramaId": "cmentarz-centralny",
+        "thumbnailId": "cmentarz-centralny"
+    },
+    {
+        "id": 5,
+        "name": "Radiostacja Gliwicka",
+        "description": "Radiostacja Gliwicka",
+        "coordinates": {
+            "lat": 50.30581,
+            "lng": 18.63685
+		},
+        "panoramaId": "radiostacja",
+        "thumbnailId": "radiostacja"
+    },
+    {
+        "id": 6,
+        "name": "Pola obok Starogliwickiej 1",
+        "description": "Pola obok ulicy Starogliwickiej 1",
+        "coordinates": {
+            "lat": 50.32058,
+            "lng": 18.61795
+		},
+        "panoramaId": "pola-starogliwicka-1",
+        "thumbnailId": "pola-starogliwicka-1"
+    },
+    {
+        "id": 7,
+        "name": "Pola obok Starogliwickiej 2",
+        "description": "Pola obok Starogliwickiej 2",
+        "coordinates": {
+            "lat": 50.30581,
+            "lng": 18.63685
+		},
+        "panoramaId": "pola-starogliwicka-2",
+        "thumbnailId": "pola-starogliwicka-2"
+    },
+    {
+        "id": 8,
+        "name": "Kościół Wniebowzięcia NMP",
+        "description": "Kościół Wniebowzięcia NMP w Łabędach",
+        "coordinates": {
+            "lat": 50.33714,
+            "lng": 18.61666
+		},
+        "panoramaId": "kosciol-nmp-labedy",
+        "thumbnailId": "kosciol-nmp-labedy"
+    },
+    {
+        "id": 9,
+        "name": "Most nad Kłodnicą",
+        "description": "Most nad Kłodnicą w Łabędach",
+        "coordinates": {
+            "lat": 50.33950,
+            "lng": 18.61879
+		},
+        "panoramaId": "most-klodnica-labedy",
+        "thumbnailId": "most-klodnica-labedy"
+    },
+    {
+        "id": 10,
+        "name": "Zakątek Leśny",
+        "description": "Urocza ulica Zakętek Leśny",
+        "coordinates": {
+            "lat": 50.35092,
+            "lng": 18.62694
+		},
+        "panoramaId": "zakatek-lesny",
+        "thumbnailId": "zakatek-lesny"
+    },
+    {
+        "id": 11,
+        "name": "Las Dąbrowa",
+        "description": "Rezerwat przyrody Las Dąbrowa",
+        "coordinates": {
+            "lat": 50.30921,
+            "lng": 18.60034
+		},
+        "panoramaId": "las-dabrowa",
+        "thumbnailId": "las-dabrowa"
+    },
+    {
+        "id": 12,
+        "name": "Kościół św. Gerarda",
+        "description": "Kościół św. Gerarda w Starych Gliwicach",
+        "coordinates": {
+            "lat": 50.30892,
+            "lng": 18.62038
+		},
+        "panoramaId": "kosciol-gerard",
+        "thumbnailId": "kosciol-gerard"
+    },
+    {
+        "id": 13,
+        "name": "Osiedle Waryńskiego",
+        "description": "Osiedle Ludwika Waryńskiego - ulica Szafirowa",
+        "coordinates": {
+            "lat": 50.31264,
+            "lng": 18.61738
+		},
+        "panoramaId": "warynskiego",
+        "thumbnailId": "warynskiego"
+    },
+    {
+        "id": 14,
+        "name": "Krzyżówka",
+        "description": "Pola między Ostropą a Starymi Gliwicami",
+        "coordinates": {
+            "lat": 50.29836,
+            "lng": 18.61389
+		},
+        "panoramaId": "krzyzowka",
+        "thumbnailId": "krzyzowka"
+    },
+    {
+        "id": 15,
+        "name": "Zachodnia obwodnica",
+        "description": "Nowo otwarta bwodnica łącząca Stare Gliwice z Wójtową Wsią",
+        "coordinates": {
+            "lat": 50.29427,
+            "lng": 18.62269
+		},
+        "panoramaId": "obwodnica-zachodnia",
+        "thumbnailId": "obwodnica-zachodnia"
+    },
+    {
+        "id": 16,
+        "name": "Osiedle Obrońców Pokoju",
+        "description": "Osiedle Obrońców Pokoju, ulica Strzelnicza",
+        "coordinates": {
+            "lat": 50.32189,
+            "lng": 18.69295
+		},
+        "panoramaId": "obroncow-pokoju",
+        "thumbnailId": "obroncow-pokoju"
+    },
+    {
+        "id": 17,
+        "name": "Stadion Miejski",
+        "description": "Stadion Miejski - Piast Gliwice",
+        "coordinates": {
+            "lat": 50.30678,
+            "lng": 18.69497
+		},
+        "panoramaId": "stadion",
+        "thumbnailId": "stadion"
+    },
+    {
+        "id": 18,
+        "name": "Nowe Gliwice",
+        "description": "Nowe Gliwice",
+        "coordinates": {
+            "lat": 50.27788,
+            "lng": 18.68256
+		},
+        "panoramaId": "nowe-gliwice",
+        "thumbnailId": "nowe-gliwice"
+    },
+    {
+        "id": 19,
+        "name": "Lotnisko",
+        "description": "Gliwickie lotnisko ze spadochroniarzami w przestworzach :)",
+        "coordinates": {
+            "lat": 50.27242,
+            "lng": 18.66491
+		},
+        "panoramaId": "lotnisko",
+        "thumbnailId": "lotnisko"
+    },
+    {
+        "id": 20,
+        "name": "PreZero Arena Gliwice",
+        "description": "Hala widowiskowo-sportowa",
+        "coordinates": {
+            "lat": 50.28623,
+            "lng": 18.68453
+		},
+        "panoramaId": "prezero-arena",
+        "thumbnailId": "prezero-arena"
+    },
+    {
+        "id": 21,
+        "name": "Park Chrobrego",
+        "description": "Park przy kampusie Politechniki Śląskiej",
+        "coordinates": {
+            "lat": 50.28851,
+            "lng": 18.68280
+		},
+        "panoramaId": "park-chrobrego",
+        "thumbnailId": "park-chrobrego"
+    },
+    {
+        "id": 22,
+        "name": "Plac Krakowski",
+        "description": "Plac Krakowski z widokiem na wydział górniczy Politechniki",
+        "coordinates": {
+            "lat": 50.29159,
+            "lng": 18.67321
+		},
+        "panoramaId": "plac-krakowski",
+        "thumbnailId": "plac-krakowski"
+    },
+    {
+        "id": 23,
+        "name": "Kościół Wszystkich Świętych",
+        "description": "Kościół Wszystkich Świętych",
+        "coordinates": {
+            "lat": 50.29532,
+            "lng": 18.66350
+		},
+        "panoramaId": "kosciol-wszystkich-sw",
+        "thumbnailId": "kosciol-wszystkich-sw"
+    },
+    {
+        "id": 24,
+        "name": "Zamek Piastowski",
+        "description": "Zamek Piastowski",
+        "coordinates": {
+            "lat": 50.29263,
+            "lng": 18.66571
+		},
+        "panoramaId": "zamek-piastowski",
+        "thumbnailId": "zamek-piastowski"
+    },
+    {
+        "id": 25,
+        "name": "Katedra Świętych Apostołów Piotra i Pawła",
+        "description": "Katedra Świętych Apostołów Piotra i Pawła",
+        "coordinates": {
+            "lat": 50.29160,
+            "lng": 18.66489
+		},
+        "panoramaId": "katedra",
+        "thumbnailId": "katedra"
+    },
+    {
+        "id": 26,
+        "name": "Park Chopina",
+        "description": "Park Chopina",
+        "coordinates": {
+            "lat": 50.29998,
+            "lng": 18.67133
+		},
+        "panoramaId": "park-chopina",
+        "thumbnailId": "park-chopina"
+    },
+    {
+        "id": 27,
+        "name": "Palmiarnia miejska",
+        "description": "Palmiarnia miejska",
+        "coordinates": {
+            "lat": 50.30075,
+            "lng": 18.66966
+		},
+        "panoramaId": "palmiarnia",
+        "thumbnailId": "palmiarnia"
+    },
+    {
+        "id": 28,
+        "name": "Skwer Europejski",
+        "description": "Skwer nad DTŚ",
+        "coordinates": {
+            "lat": 50.29951,
+            "lng": 18.67279
+		},
+        "panoramaId": "skwer-europejski",
+        "thumbnailId": "skwer-europejski"
+    },
+    {
+        "id": 29,
+        "name": "Wilcze Doły",
+        "description": "Zbiornik retencyjny pełniący funkcję terenu rekreacyjnego",
+        "coordinates": {
+            "lat": 50.27818,
+            "lng": 18.64590
+		},
+        "panoramaId": "wilcze-doly",
+        "thumbnailId": "wilcze-doly"
+    }
+]

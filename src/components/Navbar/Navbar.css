@@ -1,0 +1,62 @@
+/* Chrome bug workaround  */
+/* https://stackoverflow.com/questions/60997948/backdrop-filter-not-working-for-nested-elements-in-chrome */
+#navbar::before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: inherit;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.7px);
+    -webkit-backdrop-filter: blur(7.7px);
+    z-index: -1;
+}
+
+#navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: 3;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    color: black;
+    & #logo {
+        width: 30vw;
+        margin-left: 1rem;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 0.2rem;
+        & img {
+            max-height: 2.8rem;
+            padding: 0.3rem;
+        }
+        & h1 {
+            font-weight: 600;
+            font-style: italic;
+        }
+    }
+    & #etc {
+        width: 20vw;
+        margin-right: 1rem;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: end;
+        & a {
+            display: flex;
+            align-items: center;
+            color: black;
+        }
+        & a:hover {
+            color: #8f96a3;
+        }
+    }
+}
